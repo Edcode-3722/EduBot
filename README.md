@@ -1,0 +1,2 @@
+# EduBot
+Bot de Discord
